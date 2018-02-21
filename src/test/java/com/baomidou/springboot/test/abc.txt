@@ -1,0 +1,16 @@
+customer_name,姓名
+id_no,身份证号
+phone_no,手机号
+staff_no,员工编码
+gender,性别
+age,年龄
+entry_time,入职时间
+resignation_time,离职时间
+service_years,服务年限
+company_name,公司名
+inservice_status,在职状态
+loan_application_no,贷款申请流水号
+loan_application_date,贷款申请日期
+process_stage,所属流程阶段
+loan_status,贷款状态
+departure_control,离职管控方式
